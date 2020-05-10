@@ -1,0 +1,44 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+#navbar-cabecalho {
+    border: black 1px solid;
+    border-radius: 10px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+    box-shadow: black 2px 2px 5px;
+    background-color: red;
+}
+
+#navbar {
+    padding-left: 50px;
+    margin-bottom: 30px;
+    box-shadow: black;
+}
+
+.alert-light {
+    background-color: #F7F7F7;
+    font-size: 0.9rem;
+}
+
+.alert-top {
+    margin-bottom: 0;
+}
+
+.alert-light a {
+    color: #000;
+    text-decoration: underline;
+}
+
+.card {
+    height: 100%;
+}
+
+.card-img-top {
+    height: 250px;
+}
+
+#cards:last-child {
+    margin-bottom: 120px;
+}
